@@ -1,1 +1,1 @@
-# bips
+# This is a series of algorithms.
